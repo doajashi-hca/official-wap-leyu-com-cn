@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://doajashi-hca.github.io/official-wap-leyu-com-cn/sitemap.xml
